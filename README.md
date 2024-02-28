@@ -1,5 +1,5 @@
 - 👋 ¡Hola! Soy Maria Luiza.
-- 🌱 Soy estudiante de tecnología en el MPRJ.
+- 🌱 Soy becaria de tecnología en el MPRJ.
 - 📚 Actualmente, estoy estudiando C, mientras también me aventuro en aprender español.
 - 📫 Si quieres ponerte en contacto conmigo, mi correo electrónico es marialuiza18pro@gmail.com.
 
