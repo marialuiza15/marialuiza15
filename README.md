@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens experienciadas: **Python, HTML, PHP, C#, C++, C, Java**
+  🦄 Linguagens experienciadas: Python, HTML, PHP, C#, C++, C, Java
 </p>
 
 <p align="left">
