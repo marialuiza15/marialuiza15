@@ -2,6 +2,8 @@
 
 <p align="left"> 
   Olá! Me chamo <strong>Maria Luiza</strong> -Malu- 
+<p align="left"> 
+</p>
   Atualmente sou Graduanda em Ciência da Computação na PUC-Rio, Estagiária no Inova-MPRJ, Monitora de PP no DI-PUCRio e Voluntária em Escola Pública
 </p>
 
