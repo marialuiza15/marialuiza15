@@ -7,10 +7,6 @@
   Atualmente sou Graduanda em Ciência da Computação na PUC-Rio, Estagiária no Banco BOCOM BBM e realizo Iniciação Científica pelo CNPQ.
 
 <p align="left">
-  🦄 Linguagens experienciadas: Python, HTML, PHP, C#, C++, C, Java
-</p>
-
-<p align="left">
   💌 Se quiser entrar em contato comigo, meu e-mail é marialuiza18pro@gmail.com
 </p>
 
