@@ -1,14 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá! Me chamo <strong>Maria Luiza</strong> -Malu- 
+  Olá! Me chamo <strong>Maria Luiza</strong> (Malu)
 <p align="left"> 
 </p>
-  Atualmente sou Graduanda em Ciência da Computação na PUC-Rio, Estagiária no Banco BOCOM BBM e realizo Iniciação Científica pelo CNPQ.
-
-<p align="left">
-  💌 Se quiser entrar em contato comigo, meu e-mail é marialuiza18pro@gmail.com
-</p>
+  Atualmente sou Graduanda em Ciência da Computação na PUC-Rio, estagiária de sistemas no Banco BOCOM BBM e Pesquisadora em um projeto de iniciação científica financiado pelo CNPq, em parceria com a FIOCRUZ
 
 <p align="left">
   <a href="#" title="LinkedIn">
