@@ -4,7 +4,7 @@
   Olá! Me chamo <strong>Maria Luiza</strong> (Malu)
 <p align="left"> 
 </p>
-  Atualmente sou Graduanda em Ciência da Computação na PUC-Rio, estagiária de sistemas no Banco BOCOM BBM e Pesquisadora em um projeto de iniciação científica financiado pelo CNPq, em parceria com a FIOCRUZ
+  Atualmente sou Graduanda em Ciência da Computação na PUC-Rio, estagiária de sistemas no Banco BOCOM BBM e Pesquisadora em um projeto de iniciação científica na PUC-Rio pelo CNPq, em parceria com a FIOCRUZ
 <br>
 <p align="left">
   <a href="https://www.linkedin.com/in/maria-luiza-96584b262/" title="LinkedIn">
